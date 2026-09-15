@@ -5,6 +5,7 @@
   "description": "Evidence-driven factory for locally hosted role and creator outreach dashboards.",
   "scripts": {
     "test": "node --test",
-    "create-instance": "node src/create-instance.js"
+    "create-instance": "node src/create-instance.js",
+    "start-instance": "node src/instance-server.js"
   }
 }

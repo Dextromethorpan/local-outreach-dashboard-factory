@@ -22,3 +22,11 @@ npm run create-instance -- specs/testing-roles-belgium.example.json
 ```
 
 The command validates the domain brief and creates `instances/<slug>/` with a manifest and operational directories. It intentionally does not start a dashboard server yet: the generated manifest is the stable contract for the future UI, database, research worker, and Claude-only email gateway.
+
+## Run an instance locally
+
+```sh
+npm run start-instance -- instances/testing-roles-belgium
+```
+
+The sample responds only on `http://127.0.0.1:4101`. `GET /health` reports runtime health and `GET /api/instance` exposes only safe configuration metadata for a future UI; neither endpoint accesses email or operational data.

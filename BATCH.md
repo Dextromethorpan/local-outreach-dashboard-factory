@@ -1,30 +1,31 @@
-# Batch 001 — Dashboard Factory Contract
+# Batch 002 — Local Instance Runtime
 
-**Owner:** Unassigned
-**Branch:** `feature/dashboard-factory-contract`
+**Owner:** Codex
+**Branch:** `feature/local-instance-runtime`
 **Status:** Evidenced — awaiting review and merge
 
 ## Hypothesis
 
-A validated domain brief can produce a portable local-instance contract without giving any model uncontrolled email or cross-domain access.
+Every validated domain instance can run independently on its own loopback-only local server before any dashboard UI or external integration exists.
 
 ## Scope
 
-- Define the top-level architecture, privacy boundaries, instance manifest, and evidence standards.
-- Provide a dependency-free local instance generator with validation.
-- Provide tests proving invalid briefs are rejected and valid briefs generate the required operational structure.
+- Load and validate a generated `instance.json` manifest.
+- Run a minimal HTTP server bound exclusively to `127.0.0.1`.
+- Provide non-sensitive `/health` and `/api/instance` endpoints for a future dashboard UI.
+- Prove isolated startup, endpoint behavior, and invalid-manifest rejection with automated tests.
 
 ## Out of scope
 
-- Dashboard UI, live web research, database migrations, geocoding, Gmail OAuth, model connectors, and automatic email sending.
+- UI, database, research, mapping, Gmail OAuth, any model connector, and email sending.
 
 ## Acceptance evidence
 
 - `npm test` passes.
-- A valid sample brief produces an isolated instance manifest and directories.
-- Invalid port, non-kebab slug, and a non-Claude email policy are rejected.
-- Architecture documents explicitly cover per-domain local servers, one-agent branches, evidence-driven completion, and the Knowledge Connector Base.
+- The sample Testing Roles instance serves a health response locally.
+- The runtime rejects manifests whose server host is not `127.0.0.1`.
+- No endpoint exposes credentials, message bodies, or operational records.
 
 ## Completion rule
 
-Mark this batch `evidenced` only when its test output and a short reproducible walkthrough are stored in `docs/evidence/batches/001-dashboard-factory-contract/`.
+Mark this batch `evidenced` only when test output and a reproducible local walkthrough are stored in `docs/evidence/batches/002-local-instance-runtime/`.
