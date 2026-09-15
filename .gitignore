@@ -1,0 +1,4 @@
+node_modules/
+instances/*/data/
+instances/*/runtime/
+!instances/.gitkeep

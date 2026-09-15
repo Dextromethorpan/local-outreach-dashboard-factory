@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "slug": "testing-roles-belgium",
+  "displayName": "Testing Roles — Belgium",
+  "server": {
+    "host": "127.0.0.1",
+    "port": 4101
+  },
+  "research": {
+    "kind": "job-role",
+    "focus": "Software testing and quality assurance roles",
+    "geographies": [
+      "BE"
+    ],
+    "requiredEvidence": "source-url-and-date"
+  },
+  "email": {
+    "mode": "claude-only-drafts",
+    "humanSendRequired": true
+  },
+  "knowledgeConnector": {
+    "publication": "review-required"
+  }
+}
