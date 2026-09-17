@@ -1,0 +1,22 @@
+{
+  "imported_at": "2026-09-17T15:57:29.851326+00:00",
+  "agent": "Codex",
+  "branch": "Gate-1-Football",
+  "provenance": "User-supplied ChatGPT outputs, preserved verbatim",
+  "review_status": "Stored, not independently reviewed in this import; acceptance labels inside files are author claims",
+  "gate_status": "Needs Evidence; no approval or discovery authorization",
+  "files": [
+    {
+      "file": "handoff.md",
+      "source": "User-supplied Downloads/handoff.md",
+      "bytes": 6757,
+      "sha256": "75df3af56884cf0a2a485da47c2c869e175cf3a317883345b263abc054e06be9"
+    },
+    {
+      "file": "evidence-register.md",
+      "source": "User-supplied Downloads/evidence-register.md",
+      "bytes": 17513,
+      "sha256": "37079b08d6eee08d69e91c4969a4100e6cce02b818df2acaaa2aa20a5b420f33"
+    }
+  ]
+}
