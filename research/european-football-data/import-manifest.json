@@ -1,0 +1,161 @@
+{
+  "date": "2026-09-17",
+  "importer": "Codex",
+  "branch": "research/main-leagues-gate-1",
+  "records": [
+    {
+      "source_filename": "candidate-sources (1).md",
+      "saved_path": "source-reports/candidate-sources.md",
+      "sha256": "544ecd91bd729d18bd2bfdbaad71bc920e1004d22376fbe53a04ed6277fd3646",
+      "bytes": 14630,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "candidate-sources-corrected.md",
+      "saved_path": "source-reports/candidate-sources-corrected.md",
+      "sha256": "c68b1ce5cbb10dd677b2053facb4ad3176958dfe2e655e75f01df1844e079a6b",
+      "bytes": 1711,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "coverage-sportmonks.md",
+      "saved_path": "source-reports/coverage-sportmonks.md",
+      "sha256": "f820afe3ac2ca5a8ed018b18a738ec79d0ec2e22a4da1f529fa30faa2b14152c",
+      "bytes": 18082,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "coverage-sportmonks-continuation-a.md",
+      "saved_path": "source-reports/coverage-sportmonks-continuation-a.md",
+      "sha256": "579781ee0c7e8b2b89987dadea0542782febf2f684ccd409ccadabc34366a5e7",
+      "bytes": 10599,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "rights-sportmonks.md",
+      "saved_path": "source-reports/rights-sportmonks.md",
+      "sha256": "a11afbc4aac774a58131a48ac3392a7391420865bf6281aaa8a273ec87a67ba1",
+      "bytes": 15325,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "rights-sportmonks-amendment.md",
+      "saved_path": "source-reports/rights-sportmonks-amendment.md",
+      "sha256": "30825841a5d8014db491e969ce4b1c6166ee5c6910880bcd367ce7f9d8d9858f",
+      "bytes": 2399,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "coverage-api-football.md",
+      "saved_path": "source-reports/coverage-api-football.md",
+      "sha256": "5f5e66e40286063d145aaeacdcbb1ecd0ee66364fdf2622b9768640ed259f634",
+      "bytes": 10330,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "rights-api-football.md",
+      "saved_path": "source-reports/rights-api-football.md",
+      "sha256": "b3757363f83743cfd586f6fd643074cbcd1c654586a0cab8ab8b33084edbabca",
+      "bytes": 12033,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "coverage-football-data-org.md",
+      "saved_path": "source-reports/coverage-football-data-org.md",
+      "sha256": "94f1e7bc73e3057eabe372133a24176143643a84ee4619b884d63aaebcbab0c2",
+      "bytes": 15366,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "rights-football-data-org.md",
+      "saved_path": "source-reports/rights-football-data-org.md",
+      "sha256": "6e7573da63c632a3485a8fc9765534313a8802e3d177b0217a664d8851e59a00",
+      "bytes": 14826,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "coverage-statsbomb-open-data.md",
+      "saved_path": "source-reports/coverage-statsbomb-open-data.md",
+      "sha256": "d35929b7f42eb3afb31d75074c0df76f066c6bdb46c7ee5ca22d5c2cd02ff999",
+      "bytes": 13079,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "coverage-statsbomb-open-data-sample.md",
+      "saved_path": "source-reports/coverage-statsbomb-open-data-sample.md",
+      "sha256": "2b3856fc09977e5a9ae10e4262027232865da17ff94ee2e5a66fc520d00cb4f3",
+      "bytes": 5848,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "rights-statsbomb-open-data.md",
+      "saved_path": "source-reports/rights-statsbomb-open-data.md",
+      "sha256": "70146e7f893d0d9498529181d180809b67811a112ab01cea9c261b0ab207cc0d",
+      "bytes": 3766,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "partial-comparative-study.md",
+      "saved_path": "original-deliverables/partial-comparative-study.md",
+      "sha256": "20f5cc5684c2fd5c92881a138919bcc59c323a2bad209fd68b4005f81e2646da",
+      "bytes": 18167,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "coverage-matrix (1).md",
+      "saved_path": "original-deliverables/coverage-matrix.md",
+      "sha256": "834a8214ce765f316624d734f3750c7b9d79c36406463561922fb2f694f7e959",
+      "bytes": 10642,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "rights-matrix (1).md",
+      "saved_path": "original-deliverables/rights-matrix.md",
+      "sha256": "b656c089929cdfb0ce6eab1da8fe2855e3ce4e1e31981c3260cbeca068dc404a",
+      "bytes": 9444,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "evidence-register(2).md",
+      "saved_path": "original-deliverables/evidence-register.md",
+      "sha256": "dc28c2d718649c7bdf1d21b101cbda9c5bd6555da42f16fdcf6d7c167504b0e4",
+      "bytes": 76715,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "handoff(2).md",
+      "saved_path": "original-deliverables/handoff.md",
+      "sha256": "abb7a860a770d738d69948219d667a908681b763c76d9ebeea07c64d0c6965f6",
+      "bytes": 2776,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "coverage-matrix.md",
+      "saved_path": "original-deliverables/previous-consolidation/coverage-matrix.md",
+      "sha256": "6b6d0a1bbfade56326f73b1ec6411c8c0788282c2995d936f839b54cd3b9359d",
+      "bytes": 13494,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "rights-matrix.md",
+      "saved_path": "original-deliverables/previous-consolidation/rights-matrix.md",
+      "sha256": "be5effc4aec19b2ff0e175b78feff68bba5511ede16bcc7bb668e204fd6a00ee",
+      "bytes": 11532,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "evidence-register(1).md",
+      "saved_path": "original-deliverables/previous-consolidation/evidence-register.md",
+      "sha256": "7c1a432cefc78f96a146fd319eb65a52d82528a8c7c9262395825c1af4bbb700",
+      "bytes": 10523,
+      "preserved_verbatim": true
+    },
+    {
+      "source_filename": "handoff(1).md",
+      "saved_path": "original-deliverables/previous-consolidation/handoff.md",
+      "sha256": "59cf6b146d9da1370efad80db69f3e451a14142f01a4baa77c72ed707cc83a49",
+      "bytes": 4125,
+      "preserved_verbatim": true
+    }
+  ]
+}
