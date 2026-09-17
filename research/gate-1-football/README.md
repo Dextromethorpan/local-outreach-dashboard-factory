@@ -2,7 +2,7 @@
 
 Gate status: **Needs Evidence; product scope requires clarification**. No creator discovery or later gate approval.
 
-Read the [Final Report](final-report.md) first. It explains the scope drift: graphics
+Read the [Football Data Feasibility study](football-data-feasibility-study.md) first. It explains the scope drift: graphics
 and Championship are provisional hypotheses, not final user product requirements.
 The earlier handoff is preserved as history; clarify the intended use before resuming
 its supplier-specific actions.
