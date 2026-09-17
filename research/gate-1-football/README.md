@@ -1,6 +1,11 @@
 # Gate 1 — Football research flow
 
-Gate status: **Needs Evidence**. No creator discovery or later gate approval.
+Gate status: **Needs Evidence; product scope requires clarification**. No creator discovery or later gate approval.
+
+Read the [Final Report](final-report.md) first. It explains the scope drift: graphics
+and Championship are provisional hypotheses, not final user product requirements.
+The earlier handoff is preserved as history; clarify the intended use before resuming
+its supplier-specific actions.
 
 1. [Gemini review report](report.md): findings, corrections and unresolved questions.
 2. [ChatGPT assignments](chatgpt-prompts.md): five bounded sequential prompts.
