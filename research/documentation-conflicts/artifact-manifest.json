@@ -1,0 +1,37 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 1085,
+    "sha256": "28adb05e18416cca410dd6cdf26625ce729cec8f2915d0f1faf3e36758f7723a"
+  },
+  {
+    "path": "evidence/source-anchors.json",
+    "bytes": 733,
+    "sha256": "1e931e836fecc9e51ecf7500a974781984139064aff8d9f786f8c64d63a46f80"
+  },
+  {
+    "path": "evidence/sources.json",
+    "bytes": 2254,
+    "sha256": "28886895f7966ef33a37588a9d57cf0d26f285119aafb63534782e3bd8e03117"
+  },
+  {
+    "path": "evidence/web-observations.json",
+    "bytes": 1748,
+    "sha256": "c559eaf002d779281c25e0cead0bf78eb0232c07610586c887a19e5ad2c754ad"
+  },
+  {
+    "path": "handoff.md",
+    "bytes": 704,
+    "sha256": "85d9a938f0b7936027ea47052e2161833802ee4dd57444948232422dc6b0c851"
+  },
+  {
+    "path": "report.md",
+    "bytes": 5931,
+    "sha256": "0bf6f1c3446557ee680de3d2fab4d9efbd67bfdae8448a34b21a5440a035a0ea"
+  },
+  {
+    "path": "verification.md",
+    "bytes": 892,
+    "sha256": "3978e80fa04d258c847b1f7768276781707404cb6f78b4d6cd0efd5cd5691522"
+  }
+]

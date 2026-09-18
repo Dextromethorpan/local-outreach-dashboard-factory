@@ -1,0 +1,64 @@
+[
+  {
+    "id": "fd-pricing",
+    "url": "https://www.football-data.org/pricing",
+    "retrieved_at": "2026-09-18T15:37:48.825493+00:00",
+    "status": 200,
+    "final_url": "https://www.football-data.org/pricing",
+    "content_type": "text/html;charset=UTF-8",
+    "sha256": "6659eb4e3793fd500916efc81e050f1d85f227251f07b4c86ec8497b91e86756",
+    "bytes": 70543
+  },
+  {
+    "id": "fd-policies",
+    "url": "https://docs.football-data.org/general/v4/policies.html",
+    "retrieved_at": "2026-09-18T15:37:48.825820+00:00",
+    "status": 200,
+    "final_url": "https://docs.football-data.org/general/v4/policies.html",
+    "content_type": "text/html",
+    "sha256": "61a56e6a6a9563777008a9f3396eda9cb39b84d36163dc149992a0d56a45ff23",
+    "bytes": 14757
+  },
+  {
+    "id": "fd-blog",
+    "url": "https://www.football-data.org/blog",
+    "retrieved_at": "2026-09-18T15:37:48.826049+00:00",
+    "status": 200,
+    "final_url": "https://www.football-data.org/blog",
+    "content_type": "text/html;charset=UTF-8",
+    "sha256": "4c1af6c9f86ce8ad3f7a0c6349f237138dc18b9f5a73ee7255fd792615992bd9",
+    "bytes": 64708
+  },
+  {
+    "id": "fd-coverage",
+    "url": "https://www.football-data.org/coverage",
+    "retrieved_at": "2026-09-18T15:37:49.145709+00:00",
+    "status": 200,
+    "final_url": "https://www.football-data.org/coverage",
+    "content_type": "text/html;charset=UTF-8",
+    "sha256": "5c05af897e7eaba99b148e4f6e0def24f6e095a649de60b90f5a4e5634866a0e",
+    "bytes": 194245
+  },
+  {
+    "id": "fd-reference",
+    "url": "https://www.football-data.org/documentation/api",
+    "retrieved_at": "2026-09-18T15:37:49.236051+00:00",
+    "status": 200,
+    "final_url": "https://www.football-data.org/documentation/api",
+    "content_type": "text/html;charset=UTF-8",
+    "sha256": "643ce5834dfec50bcfe534939a82175ec6706693a22e1a52dc250066a03c8e94",
+    "bytes": 71442
+  },
+  {
+    "id": "sm-pricing",
+    "url": "https://www.sportmonks.com/football-api/plans-pricing/",
+    "retrieved_at": "2026-09-18T15:37:49.658836+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "api-pricing",
+    "url": "https://www.api-football.com/pricing",
+    "retrieved_at": "2026-09-18T15:37:49.793455+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

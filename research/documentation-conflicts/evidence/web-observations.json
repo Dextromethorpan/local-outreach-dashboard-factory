@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sm-xg",
+    "url": "https://docs.sportmonks.com/v3/tutorials-and-guides/tutorials/expected/coverage",
+    "section": "Coverage; league table; add-on requirements",
+    "excerpt": "The xG data is available from the 2024/2025 season to date.",
+    "finding": "All six scoped IDs listed. Basic/Advanced add-on required. Documentation, not account observation.",
+    "retrieved_date": "2026-09-18",
+    "method": "web tool: official page opened and relevant section inspected",
+    "source_snapshot": "No complete byte snapshot; direct local HTTP retrieval returned 403. Excerpt is a researcher transcription."
+  },
+  {
+    "id": "api-pricing",
+    "url": "https://www.api-football.com/pricing",
+    "section": "Pricing",
+    "excerpt": "Free plans are limited in terms of available seasons",
+    "finding": "All-competition/endpoint wording coexists with Free season restriction.",
+    "retrieved_date": "2026-09-18",
+    "method": "web tool: official page opened and relevant section inspected",
+    "source_snapshot": "No complete byte snapshot; direct local HTTP retrieval returned 403. Excerpt is a researcher transcription."
+  },
+  {
+    "id": "sm-pricing",
+    "url": "https://www.sportmonks.com/football-api/plans-pricing/",
+    "section": "Historical data; selected leagues FAQ",
+    "excerpt": "You can swap leagues within your plan’s monthly swap limit.",
+    "finding": "No numeric swap limit here; history older than three seasons is an add-on outside Enterprise.",
+    "retrieved_date": "2026-09-18",
+    "method": "web tool: official page opened and relevant section inspected",
+    "source_snapshot": "No complete byte snapshot; direct local HTTP retrieval returned 403. Excerpt is a researcher transcription."
+  }
+]

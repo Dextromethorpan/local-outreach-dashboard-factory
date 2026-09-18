@@ -1,0 +1,31 @@
+[
+  {
+    "source_id": "fd-pricing",
+    "section": "Standard; Advanced; Pro plan cards",
+    "observed_calls_per_minute": {
+      "Standard": 60,
+      "Advanced": 100,
+      "Pro": 120
+    }
+  },
+  {
+    "source_id": "fd-policies",
+    "section": "Request-Throttling",
+    "observed_requests_per_minute": {
+      "Standard": 30,
+      "above_Standard": 60
+    }
+  },
+  {
+    "source_id": "fd-reference",
+    "section": "Header and Changelog v1 to v2",
+    "version": "2.0",
+    "use": "Rejected as independent current v4 quota evidence"
+  },
+  {
+    "source_id": "fd-blog",
+    "section": "xg data; January 24 2026",
+    "excerpt": "i will provide xg data soon",
+    "use": "Future announcement, not production availability"
+  }
+]
