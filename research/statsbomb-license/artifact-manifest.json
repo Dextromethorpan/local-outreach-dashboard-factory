@@ -1,0 +1,42 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 1059,
+    "sha256": "535ddd82dc8586ddb5ae2e32d5d0381516ae8d0181fc83d3dc27d735f4f5d82d"
+  },
+  {
+    "path": "evidence/LICENSE.pdf",
+    "bytes": 165130,
+    "sha256": "a5462e69aeb71a39268b760b110c5c2190a2e0cee3015ba976f66bd71f6c2bb4"
+  },
+  {
+    "path": "evidence/commit.json",
+    "bytes": 6784,
+    "sha256": "baaa5c056e3beb331e29c6eae1b4238a33e81ce525ab4c44681d6849f441b41a"
+  },
+  {
+    "path": "evidence/license-extracted.txt",
+    "bytes": 8820,
+    "sha256": "ecad58f841c01be6312151d7015e300b1d96331521713ed205cb1644f04ada8d"
+  },
+  {
+    "path": "evidence/retrieval.json",
+    "bytes": 326,
+    "sha256": "ac0338f8224e652bdc41347a17064f1c8da2e75a7457827cfd51d3b337b42462"
+  },
+  {
+    "path": "handoff.md",
+    "bytes": 649,
+    "sha256": "386738f18b238cc69d40eaed860f94eb3b83b2c3d39f3eecfa4a185b61f79d55"
+  },
+  {
+    "path": "report.md",
+    "bytes": 3648,
+    "sha256": "55b7be4c91982ca884c4be323e148952b7a94c65fa34910bafa339508a530edf"
+  },
+  {
+    "path": "verification.md",
+    "bytes": 852,
+    "sha256": "7ebc26e693c5fb4476eda93f4dbb9c12c6f3d5c8f1139a085ab24a63a333a43b"
+  }
+]

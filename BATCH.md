@@ -29,3 +29,18 @@ Every validated domain instance can run independently on its own loopback-only l
 ## Completion rule
 
 Mark this batch `evidenced` only when test output and a reproducible local walkthrough are stored in `docs/evidence/batches/002-local-instance-runtime/`.
+
+
+## 2026-09-18 — StatsBomb licence
+
+Owner: Codex. User requested this priority on its own branch, starting from
+commit d757e94, the same base as research/main-leagues-gate-1.
+Prior study ff3d57f is research context, not inherited Git history.
+Scope: StatsBomb licence; six European competitions. No product selection,
+vendor contact, subscription purchase or Gate 1 approval.
+Evidence and results: research/statsbomb-license/. Status: research in progress.
+
+Completed public research pass on 2026-09-18. Results, source IDs and open
+dependencies are in research/statsbomb-license/report.md and handoff.md.
+Verification: research/statsbomb-license/verification.md. Original study unchanged.
+No Gate 1 approval, vendor contact, purchase or authenticated API test.
