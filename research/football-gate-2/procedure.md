@@ -1,6 +1,6 @@
 # Gate 2 — Football: Researching People's Experiences
 
-Date: 2026-09-18. Owner: Codex. Status: procedure ready; research not yet executed.
+Date: 2026-09-18. Owner: Codex. Status: procedure executed in the bounded 2026-09-18 research; gate decision pending.
 Branch: research/football-gate-2-analysis, based directly on main at 411438f.
 Procedure adapted from ed167e7 on research/football-gate-2-procedure;
 that earlier branch remains a historical procedure checkpoint.
@@ -143,8 +143,9 @@ Produce in this folder:
 - findings.md — strongest supported problems, weak hypotheses, limits and recommendation.
 - handoff.md — completed checks, open questions and exact next assignment.
 
-Templates or empty registers must never be labelled findings. Current status is
-procedure only; no participant experience has yet been verified in this batch.
+Templates or empty registers must never be labelled findings. The completed bounded
+batch is documented in findings.md; source inspection does not verify identities
+or independently establish the truth of self-reported incidents.
 
 After evidence review, the resulting problem statements can inform a provisional
 use case and a focused return to Gate 1. Gate 3 separately examines who would pay

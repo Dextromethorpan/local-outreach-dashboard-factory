@@ -1,6 +1,6 @@
 # Football Gate 2 analysis
 
-Date: 2026-09-18. Owner: Codex. Status: ready for research; no findings yet.
+Date: 2026-09-18. Owner: Codex. Status: bounded research complete; gate decision pending.
 Active branch: `research/football-gate-2-analysis`.
 Base: `origin/main` at `411438f`, verified after fetching GitHub.
 
@@ -41,7 +41,8 @@ reviewed documents and retain their provenance; there is no implicit requirement
 to merge every experimental branch or unrelated runtime change. The integration
 plan will be made concrete when the evidence and scope are ready.
 
-## Next assignment
+## Research results
 
-Run the bounded pilot in procedure.md. Create source-linked search and evidence
-records, then synthesize experiences. Do not label this setup as completed analysis.
+Start with [findings.md](findings.md). Supporting artifacts: [experience map](experience-map.md), [evidence register](evidence-register.json), [search log](search-log.md), [verification](verification.md), and [handoff](handoff.md).
+
+Eighteen original targets yielded thirteen readable pages. The report distinguishes coach coordination, fan access and weaker creator evidence. No gate approval or product selection is implied. Follow the handoff for a focused next assignment after segment review.
