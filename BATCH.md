@@ -68,3 +68,17 @@ commentary context and self-filming workaround remain separate. No gate approval
 verified loss, buyer proof, provider choice or merge. Original attribution rechecks,
 JSON/budget/URL/link assertions and whitespace verification completed. Next: review
 narrow problem and missing attributable burden/permissioned-workflow evidence.
+
+## Gate 2 pending evidence — 2026-09-18
+
+Owner Codex. User requested another branch from Gate 2 for unresolved research.
+Created research/football-gate-2-pending-evidence directly from e7ca5be; parent
+research/football-gate-2-analysis preserved. Nine original pages inspected.
+Saved findings, JSON register, search/verification and handoff under
+research/football-gate-2/pending-evidence; README links results. Named historical
+filmmaking case adds attributable costs and substitution; same project counted once.
+Official permissions routes documented, small-creator affordability and current
+verified losses unresolved. Gate 2/Gate 1 not approved; buyer proof remains Gate 3.
+Original-source rechecks, JSON/IDs/URLs/link validation and whitespace checks done.
+No contact, purchase, creator collection or merge. Next: narrow-scope review and
+current attributable burden/terms evidence, not repeated generic searches.

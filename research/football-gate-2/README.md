@@ -50,3 +50,7 @@ Eighteen original targets yielded thirteen readable pages. The report distinguis
 ## Creator-focused follow-up — 2026-09-18
 
 The requested targeted batch is complete. See [follow-up findings](creator-follow-up/findings.md) and [handoff](creator-follow-up/handoff.md). It adds reported publishing incidents and resolutions; Gate 2 remains pending. Initial batch counts above are preserved separately.
+
+## Pending evidence investigation — child branch
+
+On `research/football-gate-2-pending-evidence`, see [pending-evidence findings](pending-evidence/findings.md). This branch starts at Gate 2 commit `e7ca5be`. Earlier batches remain unchanged; no merge or gate approval is implied.
