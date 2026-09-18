@@ -41,3 +41,7 @@ The prior supplier research remains useful context, but cannot decide which expe
 This English-language convenience sample cannot represent USA, Europe, Latin America and Africa, quantify prevalence or prove willingness to pay. Several sources expose only relative dates. Public identities and claimed outcomes are unverified; some threads contain promotions. Negative searches and available search rankings bias selection. App features, pricing and legal interpretations in comments were not adopted as facts.
 
 **Keep Gate 2 pending.** The broad coaching and fan patterns warrant investigation, while the original creator-focused question needs evidence. Before another batch, select one segment and one unresolved question. If retaining the original creator focus, prioritize active publishers' concrete recent incidents, consequences, workarounds and satisfactory alternatives across source families. Do not start a broad creator collection run. Gate 3 buyer suitability and Gate 1 data permissions remain separate decisions.
+
+## Creator-focused follow-up — 2026-09-18
+
+The requested targeted batch is complete. See [follow-up findings](creator-follow-up/findings.md) and [handoff](creator-follow-up/handoff.md). It adds reported publishing incidents and resolutions; Gate 2 remains pending. Initial batch counts above are preserved separately.

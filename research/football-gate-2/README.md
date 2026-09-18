@@ -46,3 +46,7 @@ plan will be made concrete when the evidence and scope are ready.
 Start with [findings.md](findings.md). Supporting artifacts: [experience map](experience-map.md), [evidence register](evidence-register.json), [search log](search-log.md), [verification](verification.md), and [handoff](handoff.md).
 
 Eighteen original targets yielded thirteen readable pages. The report distinguishes coach coordination, fan access and weaker creator evidence. No gate approval or product selection is implied. Follow the handoff for a focused next assignment after segment review.
+
+## Creator-focused follow-up — 2026-09-18
+
+The requested targeted batch is complete. See [follow-up findings](creator-follow-up/findings.md) and [handoff](creator-follow-up/handoff.md). It adds reported publishing incidents and resolutions; Gate 2 remains pending. Initial batch counts above are preserved separately.

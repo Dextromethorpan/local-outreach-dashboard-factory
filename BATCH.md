@@ -57,3 +57,14 @@ Next: review one segment and named evidence gap before another research batch;
 translate resulting supported problem into Gate 1 data/use requirements. Gate 3
 remains separate. Shared-memory summary saved in original hi checkout and verified
 by retrieval (see local memory; Git files remain the public authoritative record).
+
+## Football creator follow-up — 2026-09-18
+
+Owner Codex. User authorized focused publishing research. Saved creator-follow-up/
+findings.md, evidence-register.json, search-and-verification.md and handoff.md;
+linked from initial findings/README/handoff. 10 targets, 7 readable, 3 failed.
+Two distinct incident posts support narrower investigation; one resolved. Older
+commentary context and self-filming workaround remain separate. No gate approval,
+verified loss, buyer proof, provider choice or merge. Original attribution rechecks,
+JSON/budget/URL/link assertions and whitespace verification completed. Next: review
+narrow problem and missing attributable burden/permissioned-workflow evidence.

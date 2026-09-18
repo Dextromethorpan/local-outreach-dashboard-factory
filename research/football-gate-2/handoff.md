@@ -17,3 +17,7 @@ After choosing a segment, run one targeted batch addressing a named gap. For the
 If coaches are selected instead, distinguish schedule reconciliation from onboarding/nonresponse and test recurrence of one specific mechanism. If fans are selected, separate match-location confusion from affordability/entitlements and obtain corroboration outside Reddit. Do not run all three tracks automatically.
 
 Only then translate a supported problem into data/use needs and return to relevant Gate 1 evidence. User gate review and a separate Gate 3 buyer assessment remain necessary before discovery expansion.
+
+## Creator-focused follow-up — 2026-09-18
+
+The requested targeted batch is complete. See [follow-up findings](creator-follow-up/findings.md) and [handoff](creator-follow-up/handoff.md). It adds reported publishing incidents and resolutions; Gate 2 remains pending. Initial batch counts above are preserved separately.
