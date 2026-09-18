@@ -53,3 +53,16 @@ Added publication notes and linked research index. No provider selection, gate
 approval or authenticated API test. StatsBomb licence remains uninspected.
 Verification: all imported hashes match originals; working links and corrections
 checked. Original Markdown whitespace retained intentionally for byte fidelity.
+
+## Football Gate 2 procedure — 2026-09-18
+
+Owner Codex; research/football-gate-2-procedure, based on ff3d57f.
+User asks to set aside the provisional football case and research people's
+experience. Added research/football-gate-2/procedure.md: exploratory public pain
+research may precede Gate 1 approval for football; this is not approval of any gate
+or release of creator discovery. Defines neutral sampling, original evidence,
+bounded pilot/challenge batches, deduplication, counterevidence, source verification
+and user-reviewed qualitative decisions. No research findings claimed or searches
+executed. Earlier sequential prerequisites superseded for this exploration only.
+Verification: procedure reviewed for traceable evidence, explicit limits and
+separation of pain, buyer fit and data rights; staged whitespace check passed.
