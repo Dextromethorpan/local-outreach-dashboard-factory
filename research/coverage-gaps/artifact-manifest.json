@@ -1,0 +1,52 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 1057,
+    "sha256": "023b55aec5a21c13f144777526848b1ea5836beff6a7d459c25141cd93eadbaa"
+  },
+  {
+    "path": "evidence/football-data-observations.json",
+    "bytes": 2332,
+    "sha256": "0ed042bc06fd5ab9dfce418468c6031dd98f294fa7c8677bad534a9c37b4a54e"
+  },
+  {
+    "path": "evidence/sources.json",
+    "bytes": 2932,
+    "sha256": "09cbcb23575be920fd2cae890d0ddd3b2226fc78f7f63f01c7505836157b7192"
+  },
+  {
+    "path": "evidence/statsbomb-audit.json",
+    "bytes": 38691,
+    "sha256": "94e7fa66798840d78947664fa48d175f97ef45dfcd74d93cd36eeca4400146f4"
+  },
+  {
+    "path": "evidence/statsbomb-season-counts.csv",
+    "bytes": 1643,
+    "sha256": "a319da3029ed83ce0a272f0f3415aac6b6b6c9ea7aac4bef2fb8759e28aca61a"
+  },
+  {
+    "path": "evidence/web-observations.json",
+    "bytes": 3506,
+    "sha256": "2778287ba16c8db41250112dcd96cb440a914a7c6732ef08aa7bd39c204436f3"
+  },
+  {
+    "path": "handoff.md",
+    "bytes": 905,
+    "sha256": "09fb23ee521d277f7790b287bea26beb89edb9c3fa667e7063ccc1293129667c"
+  },
+  {
+    "path": "report.md",
+    "bytes": 8001,
+    "sha256": "e74f9ec54c267f4734378446a8ab3da30435fbf703d58096f3e2d00a2cd3e2ec"
+  },
+  {
+    "path": "scripts/audit_statsbomb.py",
+    "bytes": 3583,
+    "sha256": "119ed877e0fb71d60d1ce460ed2d7272ff4e41fa3b4b5545ccc47bf49f845f7e"
+  },
+  {
+    "path": "verification.md",
+    "bytes": 939,
+    "sha256": "f3b18db831290f169a40da9fd281b6c7a5e6b34827117131b427ce278dbae204"
+  }
+]

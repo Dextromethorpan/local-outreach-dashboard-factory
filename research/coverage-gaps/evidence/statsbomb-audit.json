@@ -1,0 +1,1348 @@
+{
+  "retrieved_at": "2026-09-18T15:37:01.250703+00:00",
+  "commit": "4b73468fc5b0f1950f9f66fada70ad3a4f9327cb",
+  "catalogue": {
+    "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/competitions.json",
+    "sha256": "e6cd42f5d8956d6aa30fb917ce8d4c3b3df1879a93f02f8feba820930a6971fa",
+    "bytes": 34887
+  },
+  "tree": {
+    "url": "https://api.github.com/repos/hudl/open-data/git/trees/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb?recursive=1",
+    "sha256": "c634c02fac3992bf9645ae84aee0ed8d10eed57bf99368c1e8e8140562260039",
+    "bytes": 2095982
+  },
+  "tree_truncated": false,
+  "scope": "Six competitions; all listed seasons at pinned commit",
+  "seasons": [
+    {
+      "competition_id": 2,
+      "competition_name": "Premier League",
+      "season_id": 44,
+      "season_name": "2003/2004",
+      "records": 38,
+      "unique_match_ids": 38,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/2/44.json",
+        "sha256": "bb4dda2763385050725507de76719f11d506b14a66148c7348950a02eadfcf35",
+        "bytes": 63192
+      },
+      "files": {
+        "events": {
+          "present": 38,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 38,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 38
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 2,
+      "competition_name": "Premier League",
+      "season_id": 27,
+      "season_name": "2015/2016",
+      "records": 380,
+      "unique_match_ids": 380,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/2/27.json",
+        "sha256": "e07d6d360b30e0cd17f9aeea0db1502d2a5666d298f1b44b83a2d2f21ba3d21b",
+        "bytes": 698179
+      },
+      "files": {
+        "events": {
+          "present": 380,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 380,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 380
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 7,
+      "competition_name": "Ligue 1",
+      "season_id": 27,
+      "season_name": "2015/2016",
+      "records": 377,
+      "unique_match_ids": 377,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/7/27.json",
+        "sha256": "733c7cf47bd7a19d9acae5add722c32b404664d949377057a280bd0b0f0d2464",
+        "bytes": 667360
+      },
+      "files": {
+        "events": {
+          "present": 377,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 377,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 377
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 7,
+      "competition_name": "Ligue 1",
+      "season_id": 108,
+      "season_name": "2021/2022",
+      "records": 26,
+      "unique_match_ids": 26,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/7/108.json",
+        "sha256": "a3b2c322f18a621305720bbf79d68f581441de8657ca53b33901fcf867bf0c0f",
+        "bytes": 48647
+      },
+      "files": {
+        "events": {
+          "present": 26,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 26,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 26,
+          "missing": 0
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 7,
+      "competition_name": "Ligue 1",
+      "season_id": 235,
+      "season_name": "2022/2023",
+      "records": 32,
+      "unique_match_ids": 32,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/7/235.json",
+        "sha256": "8cab2c24952ef2668d57bb7de6c2ba93227a38fba3a3dcd9d425e5749f515f8a",
+        "bytes": 58817
+      },
+      "files": {
+        "events": {
+          "present": 32,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 32,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 32,
+          "missing": 0
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 9,
+      "competition_name": "1. Bundesliga",
+      "season_id": 27,
+      "season_name": "2015/2016",
+      "records": 34,
+      "unique_match_ids": 34,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/9/27.json",
+        "sha256": "1fd6519dc64f268e40395a2e65c82f1feb9974c2705253a2af2c37aa34a5655d",
+        "bytes": 61666
+      },
+      "files": {
+        "events": {
+          "present": 34,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 34,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 34
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 9,
+      "competition_name": "1. Bundesliga",
+      "season_id": 281,
+      "season_name": "2023/2024",
+      "records": 34,
+      "unique_match_ids": 34,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/9/281.json",
+        "sha256": "13dff90f126d9f73da410ae3292b2773744657d3ba968a2b7a9c02135033581c",
+        "bytes": 63079
+      },
+      "files": {
+        "events": {
+          "present": 34,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 34,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 34,
+          "missing": 0
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 278,
+      "season_name": "1973/1974",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/278.json",
+        "sha256": "b27b46f4554ba92bf7ddda20a9724495e218e5ab3628bc0f2cbfd9f1cc5ba63e",
+        "bytes": 1243
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 37,
+      "season_name": "2004/2005",
+      "records": 7,
+      "unique_match_ids": 7,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/37.json",
+        "sha256": "eea8a3631fbd162d3fa0acfe004260407fcff5d03de3552650d97c9f4add5b4e",
+        "bytes": 12950
+      },
+      "files": {
+        "events": {
+          "present": 7,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 7,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 7
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 38,
+      "season_name": "2005/2006",
+      "records": 17,
+      "unique_match_ids": 17,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/38.json",
+        "sha256": "be447aac4d614dc022488207f133a36bacaa13595ab09cb710190cf300780a68",
+        "bytes": 30064
+      },
+      "files": {
+        "events": {
+          "present": 17,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 17,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 17
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 39,
+      "season_name": "2006/2007",
+      "records": 26,
+      "unique_match_ids": 26,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/39.json",
+        "sha256": "e8f2580376cb588a62c296564a41ad3a8f88580606fd85720426dee0af68bd56",
+        "bytes": 47197
+      },
+      "files": {
+        "events": {
+          "present": 26,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 26,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 26
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 40,
+      "season_name": "2007/2008",
+      "records": 27,
+      "unique_match_ids": 27,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/40.json",
+        "sha256": "fc03587c12dffc5952b915dcf920a5556148f6deac5062466a9a3a41fedcbe8e",
+        "bytes": 49855
+      },
+      "files": {
+        "events": {
+          "present": 27,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 27,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 27
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 41,
+      "season_name": "2008/2009",
+      "records": 31,
+      "unique_match_ids": 31,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/41.json",
+        "sha256": "1b13d9d1ca35b0024ec8a2b4b2d03dd4820952ecb12f37111a9b0081753b9345",
+        "bytes": 56770
+      },
+      "files": {
+        "events": {
+          "present": 31,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 31,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 31
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 21,
+      "season_name": "2009/2010",
+      "records": 35,
+      "unique_match_ids": 35,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/21.json",
+        "sha256": "cdaadea54f8f6adc114b736482b8f65d24ffd8ae11eb4a0824dbbb947e698c77",
+        "bytes": 64638
+      },
+      "files": {
+        "events": {
+          "present": 35,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 35,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 35
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 22,
+      "season_name": "2010/2011",
+      "records": 33,
+      "unique_match_ids": 33,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/22.json",
+        "sha256": "b2333589ea2a9ba1b8d74d129f54c4706fd3e2b56847c01a9a18301df027867c",
+        "bytes": 60918
+      },
+      "files": {
+        "events": {
+          "present": 33,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 33,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 33
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 23,
+      "season_name": "2011/2012",
+      "records": 37,
+      "unique_match_ids": 37,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/23.json",
+        "sha256": "cd25028cbd799dee2ef76fd11b79865d950374b0c938cd36d0641c73987f5490",
+        "bytes": 68456
+      },
+      "files": {
+        "events": {
+          "present": 37,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 37,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 37
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 24,
+      "season_name": "2012/2013",
+      "records": 32,
+      "unique_match_ids": 32,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/24.json",
+        "sha256": "ffe52aa5b2daaefd8f1a8a480575ef0caa4998c4eb61792f404a99720c87f0a2",
+        "bytes": 46389
+      },
+      "files": {
+        "events": {
+          "present": 32,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 32,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 32
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 25,
+      "season_name": "2013/2014",
+      "records": 31,
+      "unique_match_ids": 31,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/25.json",
+        "sha256": "cb8a0255157fef62e30d6bcdd9d42973d77fc865f901454a47d435a9200fb551",
+        "bytes": 56279
+      },
+      "files": {
+        "events": {
+          "present": 31,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 31,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 31
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 26,
+      "season_name": "2014/2015",
+      "records": 38,
+      "unique_match_ids": 38,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/26.json",
+        "sha256": "cbb307c273c20f3401ae5a18dcddb34cb76a4ee910503f947025a92df3412c4b",
+        "bytes": 68347
+      },
+      "files": {
+        "events": {
+          "present": 38,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 38,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 38
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 27,
+      "season_name": "2015/2016",
+      "records": 380,
+      "unique_match_ids": 380,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/27.json",
+        "sha256": "4e2074c633559f3b88e9593a752d8d15d9d9ba0d6c8a25316a68ec6526b4d14b",
+        "bytes": 702673
+      },
+      "files": {
+        "events": {
+          "present": 380,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 380,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 380
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 2,
+      "season_name": "2016/2017",
+      "records": 34,
+      "unique_match_ids": 34,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/2.json",
+        "sha256": "f34be8ff144e889af756082410c9357dcadd380aa13f8ec85a1b344411f8722c",
+        "bytes": 61437
+      },
+      "files": {
+        "events": {
+          "present": 34,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 34,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 34
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 1,
+      "season_name": "2017/2018",
+      "records": 36,
+      "unique_match_ids": 36,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/1.json",
+        "sha256": "ac2b71812837bfabc08d538faee5dae6ae4cfbc4c03e2b8867d2d31a9eb379ac",
+        "bytes": 66269
+      },
+      "files": {
+        "events": {
+          "present": 36,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 36,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 36
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 4,
+      "season_name": "2018/2019",
+      "records": 34,
+      "unique_match_ids": 34,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/4.json",
+        "sha256": "5406a8517de316b3b8ccf225a7f77f6ce48b4fa6a3aa4385aa7bf4651ce84706",
+        "bytes": 61284
+      },
+      "files": {
+        "events": {
+          "present": 34,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 34,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 34
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 42,
+      "season_name": "2019/2020",
+      "records": 33,
+      "unique_match_ids": 33,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/42.json",
+        "sha256": "1002d78125854dc9c9e0fb4450cd2605213b1a3c93797f7a722d77de42cedc8b",
+        "bytes": 57716
+      },
+      "files": {
+        "events": {
+          "present": 33,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 33,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 33
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 11,
+      "competition_name": "La Liga",
+      "season_id": 90,
+      "season_name": "2020/2021",
+      "records": 35,
+      "unique_match_ids": 35,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/11/90.json",
+        "sha256": "37f6d9026f9ea9ce6c53ebbcc7a349bab42ed0cde9c2bbb15dfb94e664949ba9",
+        "bytes": 64041
+      },
+      "files": {
+        "events": {
+          "present": 35,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 35,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 35,
+          "missing": 0
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 12,
+      "competition_name": "Serie A",
+      "season_id": 86,
+      "season_name": "1986/1987",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/12/86.json",
+        "sha256": "87281e46919ec41d383a864a0d1f767507542fc77c221135cd7569263dc60f29",
+        "bytes": 1797
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 12,
+      "competition_name": "Serie A",
+      "season_id": 27,
+      "season_name": "2015/2016",
+      "records": 380,
+      "unique_match_ids": 380,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/12/27.json",
+        "sha256": "613cd3cc70699ba613cb1b3c27b4c8a01b0b5fa28415e09c928d020208905c7a",
+        "bytes": 686900
+      },
+      "files": {
+        "events": {
+          "present": 380,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 380,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 380
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 276,
+      "season_name": "1970/1971",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/276.json",
+        "sha256": "0229c663c297e2d0a13cd0b206a05bda89332199f4c9eca59ed65c9c863bf7c8",
+        "bytes": 1819
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 71,
+      "season_name": "1971/1972",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/71.json",
+        "sha256": "8b93c9f4aea3157bed17c799798020f42e0f0b5bbf58de4e9aa4b64103a35aa0",
+        "bytes": 1842
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 277,
+      "season_name": "1972/1973",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/277.json",
+        "sha256": "ae3fbfb9eae7d1f7255bad0c119af51bbbb6d36a0670fb9d1aeaee2c4839e45d",
+        "bytes": 1690
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 76,
+      "season_name": "1999/2000",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/76.json",
+        "sha256": "af485f18875bfc180f58d9697266b49a47dfdc40569c36a2cdeb76f8b98b3bd6",
+        "bytes": 1418
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 44,
+      "season_name": "2003/2004",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/44.json",
+        "sha256": "4313089c2d57af11368bc6b32cdd939f0124d6b8c8b085d4f190b8de5db88fbd",
+        "bytes": 1712
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 37,
+      "season_name": "2004/2005",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/37.json",
+        "sha256": "2f6c045f4a046d2a2302b2c8eb58ad778b35d5114b9c22d31f03b1828042b334",
+        "bytes": 1703
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 39,
+      "season_name": "2006/2007",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/39.json",
+        "sha256": "1127a59efd5352c9e8bf0af2aacc2940f3333d3d53c2f2e20ab51dfcd36c0b00",
+        "bytes": 1850
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 41,
+      "season_name": "2008/2009",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/41.json",
+        "sha256": "019a57928448032d8c1bc3e02d67704ecabb544469376e2c27636b732fc8e24c",
+        "bytes": 1850
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 21,
+      "season_name": "2009/2010",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/21.json",
+        "sha256": "cae41a65afc48072d9ed1fb4c7f15afe710713be303a0bdedfd1ee75714789f1",
+        "bytes": 1786
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 22,
+      "season_name": "2010/2011",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/22.json",
+        "sha256": "cd68b20941aebee27b76c40c89a5eec81a731dde762ed2d9f637799587892fd8",
+        "bytes": 1774
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 23,
+      "season_name": "2011/2012",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/23.json",
+        "sha256": "3e2d9dc2ab7fac8882f6e5861b0af1d5ffa2e8c2da2285bc7ba8258d614e6063",
+        "bytes": 1753
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 24,
+      "season_name": "2012/2013",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/24.json",
+        "sha256": "2f37150f5a0efa78b58db0ec527329946a5dcca7ce55fc4020de304bd00bdc6e",
+        "bytes": 1759
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 25,
+      "season_name": "2013/2014",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/25.json",
+        "sha256": "fd7b018574e64a9a779dcd5936606ecbaaab10f5fcf558c7358b11c01f8d00d1",
+        "bytes": 1781
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 26,
+      "season_name": "2014/2015",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/26.json",
+        "sha256": "d7776327dc611da04b70c2bb362b5c154acde4f388c897a25aa13a92a5aa7be9",
+        "bytes": 1783
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 27,
+      "season_name": "2015/2016",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/27.json",
+        "sha256": "485ff0a3537a0067975605c8ec704a0b4f09d8db36c02252b3949cf153822055",
+        "bytes": 1786
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 2,
+      "season_name": "2016/2017",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/2.json",
+        "sha256": "9d7191d1758c5ec56ed8947bbf30b7fa03797fb2015ead77bd1f7a36c0c53b03",
+        "bytes": 1756
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 1,
+      "season_name": "2017/2018",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/1.json",
+        "sha256": "53bb99a0f603816cea50986e255fb51841376c6c655a57de44642541b46c495a",
+        "bytes": 1817
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    },
+    {
+      "competition_id": 16,
+      "competition_name": "Champions League",
+      "season_id": 4,
+      "season_name": "2018/2019",
+      "records": 1,
+      "unique_match_ids": 1,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/matches/16/4.json",
+        "sha256": "eb1f3c0872ce01094f0378e5d80c9782164964d82917a23ae76a93e9c0b0da8e",
+        "bytes": 1878
+      },
+      "files": {
+        "events": {
+          "present": 1,
+          "missing": 0
+        },
+        "lineups": {
+          "present": 1,
+          "missing": 0
+        },
+        "three-sixty": {
+          "present": 0,
+          "missing": 1
+        }
+      },
+      "completeness": "Not verified against an authoritative full fixture list"
+    }
+  ],
+  "sample_22912": {
+    "events": {
+      "file_present": true,
+      "records": 3165,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/events/22912.json",
+        "sha256": "319314c5c41b777da66d344650aececf21733db9afb7eb72d46d5b2dd604f9b7",
+        "bytes": 2780376
+      },
+      "top_level_fields": [
+        "50_50",
+        "ball_receipt",
+        "ball_recovery",
+        "block",
+        "carry",
+        "clearance",
+        "counterpress",
+        "dribble",
+        "duel",
+        "duration",
+        "foul_committed",
+        "foul_won",
+        "goalkeeper",
+        "id",
+        "index",
+        "interception",
+        "location",
+        "minute",
+        "off_camera",
+        "out",
+        "pass",
+        "period",
+        "play_pattern",
+        "player",
+        "position",
+        "possession",
+        "possession_team",
+        "related_events",
+        "second",
+        "shot",
+        "substitution",
+        "tactics",
+        "team",
+        "timestamp",
+        "type",
+        "under_pressure"
+      ],
+      "shots": 30,
+      "shots_with_xg": 30,
+      "events_with_location": 3140
+    },
+    "lineups": {
+      "file_present": true,
+      "records": 2,
+      "source": {
+        "url": "https://raw.githubusercontent.com/hudl/open-data/4b73468fc5b0f1950f9f66fada70ad3a4f9327cb/data/lineups/22912.json",
+        "sha256": "3244e85335af73e714d6de091926fa69851f73fe653724719ff9eaa00d7b50a0",
+        "bytes": 21858
+      },
+      "top_level_fields": [
+        "lineup",
+        "team_id",
+        "team_name"
+      ]
+    },
+    "three-sixty": {
+      "file_present": false
+    }
+  },
+  "limits": "File presence does not establish content validity, completeness, continuous tracking, or rights."
+}

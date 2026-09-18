@@ -1,0 +1,84 @@
+[
+  {
+    "id": "fd-competition",
+    "url": "https://docs.football-data.org/general/v4/competition.html",
+    "retrieved_at": "2026-09-18T15:37:48.825930+00:00",
+    "status": 200,
+    "final_url": "https://docs.football-data.org/general/v4/competition.html",
+    "content_type": "text/html",
+    "sha256": "77268e6b3785fc8763995372b51047a77d2fc0885c7ed9f4e1fffd70c57f94c4",
+    "bytes": 58450
+  },
+  {
+    "id": "fd-blog",
+    "url": "https://www.football-data.org/blog",
+    "retrieved_at": "2026-09-18T15:37:48.826049+00:00",
+    "status": 200,
+    "final_url": "https://www.football-data.org/blog",
+    "content_type": "text/html;charset=UTF-8",
+    "sha256": "4c1af6c9f86ce8ad3f7a0c6349f237138dc18b9f5a73ee7255fd792615992bd9",
+    "bytes": 64708
+  },
+  {
+    "id": "fd-public-list",
+    "url": "https://api.football-data.org/v4/competitions",
+    "retrieved_at": "2026-09-18T15:37:49.246259+00:00",
+    "status": 200,
+    "final_url": "https://api.football-data.org/v4/competitions",
+    "content_type": "application/json;charset=UTF-8",
+    "sha256": "6d4a013838846b2dd3dc9c63eba1d20b251c62eff79b0518947896588cd13395",
+    "bytes": 73788
+  },
+  {
+    "id": "sm-xg",
+    "url": "https://docs.sportmonks.com/v3/tutorials-and-guides/tutorials/expected/coverage.md",
+    "retrieved_at": "2026-09-18T15:37:49.257153+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "sm-faq",
+    "url": "https://www.sportmonks.com/faq/",
+    "retrieved_at": "2026-09-18T15:37:49.484925+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "sm-xg-product",
+    "url": "https://www.sportmonks.com/football-api/xg-data/",
+    "retrieved_at": "2026-09-18T15:37:49.647160+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "api-guide",
+    "url": "https://www.api-football.com/news/post/how-to-get-started-with-api-football-the-complete-beginners-guide",
+    "retrieved_at": "2026-09-18T15:37:49.685318+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "api-coverage",
+    "url": "https://www.api-football.com/coverage",
+    "retrieved_at": "2026-09-18T15:37:49.775232+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "api-docs",
+    "url": "https://www.api-football.com/documentation-v3",
+    "retrieved_at": "2026-09-18T15:37:49.807863+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "fd-policies",
+    "url": "https://docs.football-data.org/general/v4/policies.html",
+    "retrieved_at": "2026-09-18T15:37:48.825820+00:00",
+    "status": 200,
+    "final_url": "https://docs.football-data.org/general/v4/policies.html",
+    "content_type": "text/html",
+    "sha256": "61a56e6a6a9563777008a9f3396eda9cb39b84d36163dc149992a0d56a45ff23",
+    "bytes": 14757
+  },
+  {
+    "id": "api-pricing",
+    "url": "https://www.api-football.com/pricing",
+    "retrieved_at": "2026-09-18T15:37:49.793455+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

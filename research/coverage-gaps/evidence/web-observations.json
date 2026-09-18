@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sm-xg",
+    "url": "https://docs.sportmonks.com/v3/tutorials-and-guides/tutorials/expected/coverage",
+    "section": "Coverage; league table; add-on requirements",
+    "excerpt": "The xG data is available from the 2024/2025 season to date.",
+    "finding": "All six scoped IDs listed. Basic/Advanced add-on required. Documentation, not account observation.",
+    "retrieved_date": "2026-09-18",
+    "method": "web tool: official page opened and relevant section inspected",
+    "source_snapshot": "No complete byte snapshot; direct local HTTP retrieval returned 403. Excerpt is a researcher transcription."
+  },
+  {
+    "id": "sm-faq",
+    "url": "https://www.sportmonks.com/faq/",
+    "section": "Champions League API; Bundesliga API",
+    "excerpt": "The standings endpoint returns the full 36-team table",
+    "finding": "Documented CL league-phase support. Bundesliga historical results/final standings advertised from 2005/2006. Apparent 2005/26 typo not corrected by inference.",
+    "retrieved_date": "2026-09-18",
+    "method": "web tool: official page opened and relevant section inspected",
+    "source_snapshot": "No complete byte snapshot; direct local HTTP retrieval returned 403. Excerpt is a researcher transcription."
+  },
+  {
+    "id": "sm-xg-product",
+    "url": "https://www.sportmonks.com/football-api/xg-data/",
+    "section": "From which season is xG data available?",
+    "excerpt": "Expected goals data is available from the 2024 season onward.",
+    "finding": "No older xG history advertised; exact season framing is more precise in dedicated coverage docs.",
+    "retrieved_date": "2026-09-18",
+    "method": "web tool: official page opened and relevant section inspected",
+    "source_snapshot": "No complete byte snapshot; direct local HTTP retrieval returned 403. Excerpt is a researcher transcription."
+  },
+  {
+    "id": "api-guide",
+    "url": "https://www.api-football.com/news/post/how-to-get-started-with-api-football-the-complete-beginners-guide",
+    "section": "Leagues/coverage object",
+    "excerpt": "coverage",
+    "finding": "Coverage flags are attached to seasons, not universal competition guarantees.",
+    "retrieved_date": "2026-09-18",
+    "method": "web tool: official page opened and relevant section inspected",
+    "source_snapshot": "No complete byte snapshot; direct local HTTP retrieval returned 403. Excerpt is a researcher transcription."
+  },
+  {
+    "id": "api-coverage",
+    "url": "https://www.api-football.com/coverage",
+    "section": "Detailed Coverage",
+    "excerpt": "May vary according to the seasons or fixtures",
+    "finding": "Catalogue observed; visual feature indicator cells empty in retrieved text. No negative feature claim inferred.",
+    "retrieved_date": "2026-09-18",
+    "method": "web tool: official page opened and relevant section inspected",
+    "source_snapshot": "No complete byte snapshot; direct local HTTP retrieval returned 403. Excerpt is a researcher transcription."
+  },
+  {
+    "id": "api-pricing",
+    "url": "https://www.api-football.com/pricing",
+    "section": "Pricing",
+    "excerpt": "Free plans are limited in terms of available seasons",
+    "finding": "All-competition/endpoint wording coexists with Free season restriction.",
+    "retrieved_date": "2026-09-18",
+    "method": "web tool: official page opened and relevant section inspected",
+    "source_snapshot": "No complete byte snapshot; direct local HTTP retrieval returned 403. Excerpt is a researcher transcription."
+  }
+]
