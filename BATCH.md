@@ -82,3 +82,15 @@ verified losses unresolved. Gate 2/Gate 1 not approved; buyer proof remains Gate
 Original-source rechecks, JSON/IDs/URLs/link validation and whitespace checks done.
 No contact, purchase, creator collection or merge. Next: narrow-scope review and
 current attributable burden/terms evidence, not repeated generic searches.
+
+## Demand/licensing/losses — 2026-09-19
+
+Owner Codex. User requested new branch and three-track research. Created
+research/football-gate-2-demand-licensing-losses from 2e2601d. Twelve original
+sources: eleven readable, one 403. Saved findings, JSON register, search/verification
+and handoff under research/football-gate-2/demand-licensing-losses. Marketplace
+reviews support adjacent editing-service demand; no standalone licensing demand,
+asset-level affordable match licence or newly verified current small-creator loss.
+Source rechecks, duplicate/date/status audit, JSON/IDs/URLs/local links and whitespace
+checks completed. No gate approval, contact, purchase or merge. Next: define which
+paid activity is being tested and seek specific missing evidence, not generic loops.

@@ -54,3 +54,8 @@ The requested targeted batch is complete. See [follow-up findings](creator-follo
 ## Pending evidence investigation — child branch
 
 On `research/football-gate-2-pending-evidence`, see [pending-evidence findings](pending-evidence/findings.md). This branch starts at Gate 2 commit `e7ca5be`. Earlier batches remain unchanged; no merge or gate approval is implied.
+
+## Demand, licensing and losses — 2026-09-19 child branch
+
+Branch `research/football-gate-2-demand-licensing-losses` starts at `2e2601d`.
+See [new findings](demand-licensing-losses/findings.md) and [handoff](demand-licensing-losses/handoff.md). Prior batch results remain unchanged.
